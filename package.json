@@ -1,0 +1,18 @@
+{
+  "name": "product-category-api",
+  "version": "1.0.0",
+  "description": "A RESTful API for managing products and categories using Node.js and PostgreSQL.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["API", "Node.js", "PostgreSQL", "Express", "CRUD"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  }
+}
